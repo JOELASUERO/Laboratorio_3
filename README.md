@@ -25,10 +25,23 @@ Aprender a distinguir polaridades y direccciones de corriente en el circuito pre
 
 4. Explicación del procedimiento
 
+![image](https://user-images.githubusercontent.com/116674536/205791530-35266ab1-252a-44a3-85c7-6f528f5c9c6a.png)
+
+
 5. Respuesta a interrogantes 
+
+![image](https://user-images.githubusercontent.com/116674536/205812022-a881bd4d-c1ba-42be-b955-fdedb8337b56.png)
+
+Calcular errores de las mediciones y comentar los resultados.
+
+![image](https://user-images.githubusercontent.com/116674536/205812062-f44f09ce-0a00-4674-80f8-37843a6f59be.png)
+
 
 6. VIDEO
 
 7. Conclusiones
 
 8. Bibliografía
+
+*Floyd, T. (2007). Principios de circuitos eléctricos (Ed. 8va). Educación Pearson.
+
