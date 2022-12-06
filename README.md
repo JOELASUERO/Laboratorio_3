@@ -35,17 +35,25 @@ Circuito en Fisico
 
 ![image](https://user-images.githubusercontent.com/116674536/205812977-881ff5c9-e097-49eb-952f-199c5ed6c618.png)
 
+Circuito en el simulador
 
-![image](https://user-images.githubusercontent.com/116674536/205812022-a881bd4d-c1ba-42be-b955-fdedb8337b56.png)
+![image](https://user-images.githubusercontent.com/116674536/205958447-06347d1a-b6cb-4f96-bd5e-c38382e5b9fd.png)
+
 
 Calcular errores de las mediciones y comentar los resultados.
+
+![image](https://user-images.githubusercontent.com/116674536/205812022-a881bd4d-c1ba-42be-b955-fdedb8337b56.png)
 
 ![image](https://user-images.githubusercontent.com/116674536/205812062-f44f09ce-0a00-4674-80f8-37843a6f59be.png)
 
 
 6. VIDEO
 
+https://www.youtube.com
+
 7. Conclusiones
+
+A través del trabajo experimental, analítico y de simulación, hemos podido validar datos que nos muestran una tasa de error más baja en trabajos anteriores, lo que demuestra que controlamos todas las formas en que se nos presenta el trabajo.
 
 8. Bibliografía
 
