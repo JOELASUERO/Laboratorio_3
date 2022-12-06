@@ -25,10 +25,16 @@ Aprender a distinguir polaridades y direccciones de corriente en el circuito pre
 
 4. Explicación del procedimiento
 
+
 ![image](https://user-images.githubusercontent.com/116674536/205791530-35266ab1-252a-44a3-85c7-6f528f5c9c6a.png)
 
 
 5. Respuesta a interrogantes 
+
+Circuito en Fisico 
+
+![image](https://user-images.githubusercontent.com/116674536/205812977-881ff5c9-e097-49eb-952f-199c5ed6c618.png)
+
 
 ![image](https://user-images.githubusercontent.com/116674536/205812022-a881bd4d-c1ba-42be-b955-fdedb8337b56.png)
 
